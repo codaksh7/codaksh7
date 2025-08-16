@@ -1,7 +1,8 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Daksh+Thakkar!;Full-Stack+Developer+%F0%9F%9A%80;Always+Learning+New+Things+%F0%9F%94%A5;Let's+Build+Something+Awesome!" alt="Typing SVG" />
+  <img src="https://i.imgur.com/z7d8BqR.gif" alt="Daksh Thakkar | Full-Stack Developer" width="800" />
 </p>
+
 
 
 ---
