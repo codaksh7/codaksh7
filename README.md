@@ -13,7 +13,7 @@
 
 ---
 
-## Tech Stack 💻
+## 🛠 Tech Stack  
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -34,16 +34,28 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codaksh7&show_icons=true&theme=radical" alt="Daksh Thakkar's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codaksh7&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=codaksh7&show_icons=true&theme=tokyonight" alt="Daksh Thakkar's GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codaksh7&layout=compact&theme=gruvbox" alt="Top Languages" height="180" />
 </p>
 
 ---
 
-## 🤝 Connect With Me
+## 📈 Contributions & Streak  
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=codaksh7&theme=dark&hide_border=false" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codaksh7&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
+</p>
+
+---
+
+## 🤝 Connect With Me  
 
 <p align="center">
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="_blank">
