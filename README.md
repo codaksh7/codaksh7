@@ -73,3 +73,23 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
+
+
+## ⚡ Contribution Activity  
+
+<p align="center">
+  <!-- Futuristic Snake Contribution Graph -->
+  <img src="https://raw.githubusercontent.com/codaksh7/codaksh7/output/github-contribution-grid-snake-dark.svg" alt="snake gif" />
+</p>
+
+<p align="center">
+  <!-- Futuristic Contribution Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codaksh7&theme=github-compact&hide_border=true&area=true&area_color=00F7FF&line=FF007F&point=FFFFFF" alt="Daksh's futuristic contribution graph" />
+</p>
+
+<p align="center">
+  <!-- 3D Contribution Metrics -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codaksh7&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=codaksh7&theme=radical&utcOffset=5.5" />
+</p>
+
