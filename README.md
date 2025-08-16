@@ -3,9 +3,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Daksh+Thakkar!;Full-Stack+Developer+%F0%9F%9A%80;Always+Learning+New+Things+%F0%9F%94%A5;Let's+Build+Something+Awesome!" alt="Typing SVG" />
 </p>
 
-
-
-
 ---
 
 ## Hey, I'm Daksh Thakkar! 👋  
@@ -74,13 +71,7 @@
   </a>
 </p>
 
-
 ## ⚡ Contribution Activity  
-
-<p align="center">
-  <!-- Futuristic Contribution Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codaksh7&theme=github-compact&hide_border=true&area=true&area_color=00F7FF&line=FF007F&point=FFFFFF" alt="Daksh's futuristic contribution graph" />
-</p>
 
 <p align="center">
   <!-- 3D Contribution Metrics -->
