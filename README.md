@@ -78,11 +78,6 @@
 ## ⚡ Contribution Activity  
 
 <p align="center">
-  <!-- Futuristic Snake Contribution Graph -->
-  <img src="https://raw.githubusercontent.com/codaksh7/codaksh7/output/github-contribution-grid-snake-dark.svg" alt="snake gif" />
-</p>
-
-<p align="center">
   <!-- Futuristic Contribution Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=codaksh7&theme=github-compact&hide_border=true&area=true&area_color=00F7FF&line=FF007F&point=FFFFFF" alt="Daksh's futuristic contribution graph" />
 </p>
